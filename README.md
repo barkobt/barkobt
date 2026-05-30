@@ -1,15 +1,13 @@
-&lt;div align="center"&gt;
+&lt;h1 align="center"&gt;Baran Bozkurt&lt;/h1&gt;
 
-# Baran Bozkurt
+&lt;p align="center"&gt;&lt;strong&gt;Mathematics & AI Engineer&lt;/strong&gt;&lt;/p&gt;
 
-**Mathematics & AI Engineer**
+&lt;p align="center"&gt;Final-year Mathematics student at Ege University building AI-powered products, analytics platforms, and full-stack applications.&lt;/p&gt;
 
-Final-year Mathematics student at Ege University building AI-powered products, analytics platforms, and full-stack applications.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetbaranbozkurt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetbaranbozkurt@gmail.com)
-
-&lt;/div&gt;
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/ahmetbaranbozkurt"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="mailto:ahmetbaranbozkurt@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
@@ -178,8 +176,4 @@ Mathematics & Statistics · Machine Learning & Predictive Analytics · AI Produc
 
 ---
 
-&lt;p align="center"&gt;
-
-**Let's connect and build something impactful.**
-
-&lt;/p&gt;
+&lt;p align="center"&gt;&lt;strong&gt;Let's connect and build something impactful.&lt;/strong&gt;&lt;/p&gt;
