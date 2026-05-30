@@ -1,68 +1,125 @@
-<!-- GitHub Profile README | barkobt -->
+# Ahmet Baran Bozkurt
 
-# 👋 Hi there, I'm Ahmet Baran Bozkurt
+Final-year Mathematics student at Ege University focused on Artificial Intelligence, Data Science, Optimization, and Software Engineering.
 
-🎓 Final-year Mathematics student at Ege University  
-📊 Focused on Data Science, Machine Learning, and Feature Engineering  
-🧠 Applying mathematical logic to real-world analytics  
-🔍 Passionate about solving practical problems through data, detecting data anomalies and driving business lift
+I build AI-powered products, analytics platforms, optimization systems, and full-stack applications that solve real-world business problems.
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="Numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+* Mathematics & Statistics
+* Machine Learning & Predictive Analytics
+* AI Product Development
+* LLM Applications & Agentic Workflows
+* Operations Research & Optimization
+* Full-Stack SaaS Development
+* Business Intelligence & Decision Support Systems
+
+---
+
+## Technologies
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,csharp,dart,sql" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB2027?style=for-the-badge&logo=xgboost&logoColor=white" />
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,git,github,vscode" />
+</p>
+
+### AI & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EB2027?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/OR--Tools-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### AI Development Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stitch-AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-Enabled-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Projects
+## Selected Projects
 
-- 🚀 **[TÜBİTAK Marketing Analytics](https://github.com/barkobt/tubitak-marketing-analytics)** – Leakage detection & prescriptive engine (+26.5% lift)
-- 🚦 **[Teknofest AI Traffic](https://github.com/barkobt/teknofest-traffic-cv)** – AI-based object detection system (Advanced to 2nd stage)
-- 🚗 **[Automotive Sales Analytics](https://github.com/barkobt/automotive-sales-analytics)** – Deep EDA & segmentation on 100K+ records
-- 🏥 **ECG Analysis (Bluesense Internship)** – AI-driven healthcare data processing
+### ZaraTraining
+
+AI-powered workforce training and shift management platform for retail operations. Features intelligent scheduling, employee performance tracking, training workflows, and workforce analytics.
+
+### Shift Solver API
+
+CP-SAT powered workforce optimization engine built with FastAPI and Railway. Generates operationally feasible schedules using constraint programming and mathematical optimization.
+
+### TÜBİTAK Marketing Analytics
+
+Marketing analytics pipeline that detected and eliminated data leakage (AUC 1.0→0.71) and achieved +26.5% conversion lift through prescriptive channel-platform optimization.
+
+### Telco Customer Churn
+
+Machine learning project focused on churn prediction, customer segmentation, feature engineering, and retention analytics.
+
+### Automotive Sales Analytics
+
+Exploratory data analysis of 100K+ automotive sales records including customer segmentation, sales trends, geographic analysis, and business recommendations.
+
+### Teknofest Traffic CV
+
+Computer vision pipeline for traffic image processing. Advanced to Stage 2 of Teknofest with image enhancement, object detection, and preprocessing techniques.
+
+### Budgeify
+
+AI-assisted personal finance platform helping users track spending, manage budgets, and achieve savings goals.
+
+### Q-Card
+
+Minimalist digital business card platform that converts contact information into vCard format and shareable QR codes.
 
 ---
 
-## 🌱 Currently Exploring
+## Current Focus
 
-- 🧠 **Deep Learning Theory:** Mastering Neural Network architectures (ANN, CNN) and the mathematical foundations of Backpropagation & Optimization.
-- 🚀 **From Scikit-Learn to Frameworks:** Expanding my ML toolkit towards **PyTorch** and **TensorFlow** for scalable deep learning models.
-- 🔬 **Computer Vision in Industry:** Developing practical CV skills for real-world applications (Skin analysis, Object detection) beyond competition baselines.
-- ☁️ **Scalable Data Science:** Learning **PySpark** and Cloud-native (AWS/Azure) environments to handle large-scale datasets.
-- 📉 **Model Interpretability:** Exploring SHAP and LIME to explain complex model decisions (XGBoost/LightGBM).
+* Multi-Agent AI Systems
+* Claude Code Workflows
+* Retrieval-Augmented Generation (RAG)
+* LLM Evaluation & Optimization
+* Deep Learning with PyTorch
+* Scalable AI Infrastructure
+* Operations Research & Scheduling Systems
+* AI-native SaaS Products
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barkobt&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkobt&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=barkobt&show_icons=true&hide_border=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkobt&layout=compact&hide_border=true&theme=transparent" height="180"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/baran-bozkurt-a9a147216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://linkedin.com/in/baran-bozkurt-a9a147216">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/baranbozkurt" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+
+  <a href="https://www.kaggle.com/baranbozkurt">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
