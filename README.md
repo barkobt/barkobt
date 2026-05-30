@@ -1,125 +1,178 @@
-# Ahmet Baran Bozkurt
+&lt;div align="center"&gt;
 
-Final-year Mathematics student at Ege University focused on Artificial Intelligence, Data Science, Optimization, and Software Engineering.
+# Baran Bozkurt
 
-I build AI-powered products, analytics platforms, optimization systems, and full-stack applications that solve real-world business problems.
+**Mathematics & AI Engineer**
+
+Final-year Mathematics student at Ege University building AI-powered products, analytics platforms, and full-stack applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetbaranbozkurt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetbaranbozkurt@gmail.com)
+
+&lt;/div&gt;
 
 ---
 
 ## About
 
-* Mathematics & Statistics
-* Machine Learning & Predictive Analytics
-* AI Product Development
-* LLM Applications & Agentic Workflows
-* Operations Research & Optimization
-* Full-Stack SaaS Development
-* Business Intelligence & Decision Support Systems
+Mathematics & Statistics · Machine Learning & Predictive Analytics · AI Product Development · LLM Applications & Agentic Workflows · Operations Research & Optimization · Full-Stack SaaS Development · Business Intelligence & Decision Support Systems
 
 ---
 
-## Technologies
+## Tech Stack
 
 ### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,csharp,dart,sql" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Frameworks & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,git,github,vscode" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ### AI & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB2027?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/OR--Tools-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### AI Development Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stitch-AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-Enabled-success?style=for-the-badge" />
-</p>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square&logo=kimi&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## Selected Projects
+## Projects
 
-### ZaraTraining
-
-AI-powered workforce training and shift management platform for retail operations. Features intelligent scheduling, employee performance tracking, training workflows, and workforce analytics.
-
-### Shift Solver API
-
-CP-SAT powered workforce optimization engine built with FastAPI and Railway. Generates operationally feasible schedules using constraint programming and mathematical optimization.
-
-### TÜBİTAK Marketing Analytics
-
-Marketing analytics pipeline that detected and eliminated data leakage (AUC 1.0→0.71) and achieved +26.5% conversion lift through prescriptive channel-platform optimization.
-
-### Telco Customer Churn
-
-Machine learning project focused on churn prediction, customer segmentation, feature engineering, and retention analytics.
-
-### Automotive Sales Analytics
-
-Exploratory data analysis of 100K+ automotive sales records including customer segmentation, sales trends, geographic analysis, and business recommendations.
-
-### Teknofest Traffic CV
-
-Computer vision pipeline for traffic image processing. Advanced to Stage 2 of Teknofest with image enhancement, object detection, and preprocessing techniques.
-
-### Budgeify
-
-AI-assisted personal finance platform helping users track spending, manage budgets, and achieve savings goals.
-
-### Q-Card
-
-Minimalist digital business card platform that converts contact information into vCard format and shareable QR codes.
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="50%"&gt;
+      &lt;h3&gt;&lt;a href="https://github.com/barkobt/ZaraTraining"&gt;ZaraTraining&lt;/a&gt;&lt;/h3&gt;
+      &lt;p&gt;AI-powered workforce training & shift management platform for retail. Intelligent scheduling, performance tracking, training workflows.&lt;/p&gt;
+      &lt;p&gt;
+        &lt;img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" /&gt;
+        &lt;img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript" /&gt;
+        &lt;img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" /&gt;
+        &lt;img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle" /&gt;
+      &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td width="50%"&gt;
+      &lt;h3&gt;&lt;a href="https://github.com/barkobt/shift-solver-api"&gt;Shift Solver API&lt;/a&gt;&lt;/h3&gt;
+      &lt;p&gt;CP-SAT powered workforce optimization engine. FastAPI + Railway. Constraint programming for operationally feasible schedules.&lt;/p&gt;
+      &lt;p&gt;
+        &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /&gt;
+        &lt;img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" /&gt;
+        &lt;img src="https://img.shields.io/badge/ORTools-4285F4?style=flat-square&logo=google" /&gt;
+        &lt;img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway" /&gt;
+      &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td width="50%"&gt;
+      &lt;h3&gt;&lt;a href="https://github.com/barkobt/tubitak-marketing-analytics"&gt;TÜBİTAK Marketing Analytics&lt;/a&gt;&lt;/h3&gt;
+      &lt;p&gt;Detected & eliminated data leakage (AUC 1.0→0.71). Achieved +26.5% conversion lift via prescriptive channel-platform optimization.&lt;/p&gt;
+      &lt;p&gt;
+        &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /&gt;
+        &lt;img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn" /&gt;
+        &lt;img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" /&gt;
+      &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td width="50%"&gt;
+      &lt;h3&gt;&lt;a href="https://github.com/barkobt/telco-customer-churn"&gt;Telco Customer Churn&lt;/a&gt;&lt;/h3&gt;
+      &lt;p&gt;Churn prediction, customer segmentation, feature engineering, and retention analytics pipeline.&lt;/p&gt;
+      &lt;p&gt;
+        &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /&gt;
+        &lt;img src="https://img.shields.io/badge/XGBoost-EB422C?style=flat-square&logo=xgboost" /&gt;
+        &lt;img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib" /&gt;
+      &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td width="50%"&gt;
+      &lt;h3&gt;&lt;a href="https://github.com/barkobt/automotive-sales-analytics"&gt;Automotive Sales Analytics&lt;/a&gt;&lt;/h3&gt;
+      &lt;p&gt;EDA of 100K+ automotive sales records. Customer segmentation, sales trends, geographic analysis, business recommendations.&lt;/p&gt;
+      &lt;p&gt;
+        &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /&gt;
+        &lt;img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python" /&gt;
+        &lt;img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly" /&gt;
+      &lt;/p&gt;
+    &lt;/td&gt;
+    &lt;td width="50%"&gt;
+      &lt;h3&gt;&lt;a href="https://github.com/barkobt/teknofest-traffic-cv"&gt;Teknofest Traffic CV&lt;/a&gt;&lt;/h3&gt;
+      &lt;p&gt;Computer vision pipeline for traffic image processing. Advanced to Stage 2. Image enhancement, object detection, preprocessing.&lt;/p&gt;
+      &lt;p&gt;
+        &lt;img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" /&gt;
+        &lt;img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo" /&gt;
+        &lt;img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" /&gt;
+      &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td width="50%"&gt;
+      &lt;h3&gt;&lt;a href="https://github.com/barkobt/budgeify"&gt;Budgeify&lt;/a&gt;&lt;/h3&gt;
+      &lt;p&gt;AI-assisted personal finance platform. Spending tracking, budget management, savings goals.&lt;/p&gt;
+      &lt;p&gt;
+        &lt;img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" /&gt;
+        &lt;img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" /&gt;
+        &lt;img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" /&gt;
+      &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 ---
 
 ## Current Focus
 
-* Multi-Agent AI Systems
-* Claude Code Workflows
-* Retrieval-Augmented Generation (RAG)
-* LLM Evaluation & Optimization
-* Deep Learning with PyTorch
-* Scalable AI Infrastructure
-* Operations Research & Scheduling Systems
-* AI-native SaaS Products
+- Multi-Agent AI Systems
+- Claude Code Workflows
+- Retrieval-Augmented Generation (RAG)
+- LLM Evaluation & Optimization
+- Deep Learning with PyTorch
+- Scalable AI Infrastructure
+- Operations Research & Scheduling Systems
+- AI-native SaaS Products
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barkobt&show_icons=true&hide_border=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkobt&layout=compact&hide_border=true&theme=transparent" height="180"/>
-</p>
+&lt;div align="center"&gt;
+  
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=barkobt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkobt&layout=compact&theme=github_dark&hide_border=true" height="165" /&gt;
+  
+  &lt;br/&gt;
+  
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=barkobt&theme=github_dark&hide_border=true" /&gt;
+  
+  &lt;br/&gt;
+  
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=barkobt&theme=darkhub&no-frame=true&column=7" /&gt;
+
+&lt;/div&gt;
 
 ---
 
-## Connect
+&lt;div align="center"&gt;
 
-<p>
-  <a href="https://linkedin.com/in/baran-bozkurt-a9a147216">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+**Let's connect and build something impactful.**
 
-  <a href="https://www.kaggle.com/baranbozkurt">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
+&lt;/div&gt;
