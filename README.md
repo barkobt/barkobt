@@ -5,8 +5,8 @@
 <p align="center">Final-year Mathematics student at Ege University building AI-powered products, analytics platforms, and full-stack applications.</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmetbaranbozkurt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahmetbaranbozkurt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/baranbozkurt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:baranbozkurt35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
