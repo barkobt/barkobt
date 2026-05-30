@@ -1,13 +1,13 @@
-&lt;h1 align="center"&gt;Baran Bozkurt&lt;/h1&gt;
+<h1 align="center">Baran Bozkurt</h1>
 
-&lt;p align="center"&gt;&lt;strong&gt;Mathematics & AI Engineer&lt;/strong&gt;&lt;/p&gt;
+<p align="center"><strong>Mathematics & AI Engineer</strong></p>
 
-&lt;p align="center"&gt;Final-year Mathematics student at Ege University building AI-powered products, analytics platforms, and full-stack applications.&lt;/p&gt;
+<p align="center">Final-year Mathematics student at Ege University building AI-powered products, analytics platforms, and full-stack applications.</p>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/ahmetbaranbozkurt"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:ahmetbaranbozkurt@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://linkedin.com/in/ahmetbaranbozkurt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmetbaranbozkurt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -59,90 +59,90 @@ Mathematics & Statistics · Machine Learning & Predictive Analytics · AI Produc
 
 ## Projects
 
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3&gt;&lt;a href="https://github.com/barkobt/ZaraTraining"&gt;ZaraTraining&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;AI-powered workforce training & shift management platform for retail. Intelligent scheduling, performance tracking, training workflows.&lt;/p&gt;
-      &lt;p&gt;
-        &lt;img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" /&gt;
-        &lt;img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript" /&gt;
-        &lt;img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" /&gt;
-        &lt;img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle" /&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3&gt;&lt;a href="https://github.com/barkobt/shift-solver-api"&gt;Shift Solver API&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;CP-SAT powered workforce optimization engine. FastAPI + Railway. Constraint programming for operationally feasible schedules.&lt;/p&gt;
-      &lt;p&gt;
-        &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /&gt;
-        &lt;img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" /&gt;
-        &lt;img src="https://img.shields.io/badge/ORTools-4285F4?style=flat-square&logo=google" /&gt;
-        &lt;img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway" /&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3&gt;&lt;a href="https://github.com/barkobt/tubitak-marketing-analytics"&gt;TÜBİTAK Marketing Analytics&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Detected & eliminated data leakage (AUC 1.0→0.71). Achieved +26.5% conversion lift via prescriptive channel-platform optimization.&lt;/p&gt;
-      &lt;p&gt;
-        &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /&gt;
-        &lt;img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn" /&gt;
-        &lt;img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" /&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3&gt;&lt;a href="https://github.com/barkobt/telco-customer-churn"&gt;Telco Customer Churn&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Churn prediction, customer segmentation, feature engineering, and retention analytics pipeline.&lt;/p&gt;
-      &lt;p&gt;
-        &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /&gt;
-        &lt;img src="https://img.shields.io/badge/XGBoost-EB422C?style=flat-square&logo=xgboost" /&gt;
-        &lt;img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib" /&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3&gt;&lt;a href="https://github.com/barkobt/automotive-sales-analytics"&gt;Automotive Sales Analytics&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;EDA of 100K+ automotive sales records. Customer segmentation, sales trends, geographic analysis, business recommendations.&lt;/p&gt;
-      &lt;p&gt;
-        &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /&gt;
-        &lt;img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python" /&gt;
-        &lt;img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly" /&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3&gt;&lt;a href="https://github.com/barkobt/teknofest-traffic-cv"&gt;Teknofest Traffic CV&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Computer vision pipeline for traffic image processing. Advanced to Stage 2. Image enhancement, object detection, preprocessing.&lt;/p&gt;
-      &lt;p&gt;
-        &lt;img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" /&gt;
-        &lt;img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo" /&gt;
-        &lt;img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" /&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3&gt;&lt;a href="https://github.com/barkobt/budgeify"&gt;Budgeify&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;AI-assisted personal finance platform. Spending tracking, budget management, savings goals.&lt;/p&gt;
-      &lt;p&gt;
-        &lt;img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" /&gt;
-        &lt;img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" /&gt;
-        &lt;img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" /&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-    &lt;td width="50%" valign="top"&gt;
-      &lt;h3&gt;&lt;a href="https://github.com/barkobt/q-card"&gt;Q-Card&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Minimalist digital business card. Converts contact info into vCard format & shareable QR codes.&lt;/p&gt;
-      &lt;p&gt;
-        &lt;img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" /&gt;
-        &lt;img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" /&gt;
-        &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" /&gt;
-      &lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/barkobt/ZaraTraining">ZaraTraining</a></h3>
+      <p>AI-powered workforce training & shift management platform for retail. Intelligent scheduling, performance tracking, training workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" />
+        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/barkobt/shift-solver-api">Shift Solver API</a></h3>
+      <p>CP-SAT powered workforce optimization engine. FastAPI + Railway. Constraint programming for operationally feasible schedules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
+        <img src="https://img.shields.io/badge/ORTools-4285F4?style=flat-square&logo=google" />
+        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/barkobt/tubitak-marketing-analytics">TÜBİTAK Marketing Analytics</a></h3>
+      <p>Detected & eliminated data leakage (AUC 1.0→0.71). Achieved +26.5% conversion lift via prescriptive channel-platform optimization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/barkobt/telco-customer-churn">Telco Customer Churn</a></h3>
+      <p>Churn prediction, customer segmentation, feature engineering, and retention analytics pipeline.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/XGBoost-EB422C?style=flat-square&logo=xgboost" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/barkobt/automotive-sales-analytics">Automotive Sales Analytics</a></h3>
+      <p>EDA of 100K+ automotive sales records. Customer segmentation, sales trends, geographic analysis, business recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/barkobt/teknofest-traffic-cv">Teknofest Traffic CV</a></h3>
+      <p>Computer vision pipeline for traffic image processing. Advanced to Stage 2. Image enhancement, object detection, preprocessing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/barkobt/budgeify">Budgeify</a></h3>
+      <p>AI-assisted personal finance platform. Spending tracking, budget management, savings goals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/barkobt/q-card">Q-Card</a></h3>
+      <p>Minimalist digital business card. Converts contact info into vCard format & shareable QR codes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -161,19 +161,19 @@ Mathematics & Statistics · Machine Learning & Predictive Analytics · AI Produc
 
 ## GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=barkobt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkobt&layout=compact&theme=github_dark&hide_border=true" height="165" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barkobt&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkobt&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=barkobt&theme=github_dark&hide_border=true" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barkobt&theme=github_dark&hide_border=true" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=barkobt&theme=darkhub&no-frame=true&column=7" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=barkobt&theme=darkhub&no-frame=true&column=7" />
+</p>
 
 ---
 
-&lt;p align="center"&gt;&lt;strong&gt;Let's connect and build something impactful.&lt;/strong&gt;&lt;/p&gt;
+<p align="center"><strong>Let's connect and build something impactful.</strong></p>
