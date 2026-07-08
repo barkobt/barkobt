@@ -21,20 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=barkobt&color=E34234&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-```python
-class BaranBozkurt:
-    """Mathematics graduate turned AI & product engineer."""
-
-    def __init__(self):
-        self.education = "BSc Mathematics, Ege University — GPA 3.44"
-        self.role      = "Mathematics & AI Engineer"
-        self.stack     = ["Python", "TypeScript", "PyTorch", "FastAPI", "Next.js"]
-        self.focus     = ["AI products", "ML & analytics", "operations research"]
-        self.principle = "every number ships with its source"
-
-    def build(self, problem):
-        return honest(solve(problem))   # proof, after dark
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/barkobt/barkobt/main/assets/whoami.svg" width="720" alt="class BaranBozkurt — Mathematics graduate turned AI & product engineer; every number ships with its source" />
+</p>
 
 ---
 
