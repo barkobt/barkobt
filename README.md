@@ -9,7 +9,7 @@
 <p align="center"><strong>Mathematics &amp; AI Engineer</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=E34234&center=true&vCenter=true&width=720&height=45&lines=Final-year+Mathematics+%40+Ege+University;Building+AI+products%2C+analytics+%26+full-stack+apps;Honest+numbers+%E2%80%94+every+one+with+a+source;Proof%2C+after+dark." alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=E34234&center=true&vCenter=true&width=720&height=45&lines=Mathematics+graduate+%40+Ege+University+%E2%80%94+GPA+3.44;From+proofs+to+production+systems;Building+AI+products%2C+analytics+%26+full-stack+apps;Honest+numbers+%E2%80%94+every+one+with+a+source;Proof%2C+after+dark." alt="What I do" />
 </p>
 
 <p align="center">
@@ -21,13 +21,36 @@
   <img src="https://komarev.com/ghpvc/?username=barkobt&color=E34234&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
+```python
+class BaranBozkurt:
+    """Mathematics graduate turned AI & product engineer."""
+
+    def __init__(self):
+        self.education = "BSc Mathematics, Ege University — GPA 3.44"
+        self.role      = "Mathematics & AI Engineer"
+        self.stack     = ["Python", "TypeScript", "PyTorch", "FastAPI", "Next.js"]
+        self.focus     = ["AI products", "ML & analytics", "operations research"]
+        self.principle = "every number ships with its source"
+
+    def build(self, problem):
+        return honest(solve(problem))   # proof, after dark
+```
+
 ---
 
 ## About
 
 Mathematics &amp; Statistics · Machine Learning &amp; Predictive Analytics · AI Product Development · LLM Applications &amp; Agentic Workflows · Operations Research &amp; Optimization · Full-Stack SaaS Development · Business Intelligence &amp; Decision Support Systems
 
-I build systems that ship — and I hold their numbers to a standard: on my site, **every metric links to its source.**
+I'm a **mathematics graduate** (Ege University, GPA **3.44**) who moved from proofs to production — building ML pipelines that catch their own data leakage, a CP-SAT scheduler running in a real retail store, and full-stack apps on top of them. Whatever I ship, I hold to one standard: on my site, **every metric links to its source.**
+
+---
+
+## Education &amp; Experience
+
+- 🎓 &nbsp;**BSc Mathematics** — Ege University · GPA **3.44** · graduated 4th in department
+- 🧪 &nbsp;**AI / Software Engineering Intern** — Bluesense AI · SFU VentureLabs · Mitacs *(Oct 2025 – Feb 2026)*
+- 🛍️ &nbsp;**Sales Advisor &amp; Shift Coordinator** — Zara / Inditex · where my CP-SAT shift-scheduling work began
 
 ---
 
@@ -195,6 +218,10 @@ I build systems that ship — and I hold their numbers to a standard: on my site
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=barkobt&hide_border=true&bg_color=131118&color=EDEBE4&line=E34234&point=FF6F5C&area=true&area_color=E34234&title_color=FF6F5C" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/barkobt/barkobt/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
